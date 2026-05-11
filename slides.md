@@ -133,3 +133,22 @@ The work done $W$ is positive when the system expands against an external pressu
 
 # Bibliography
 <div id="refs"></div>
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Machine 1 Analysis
+**Process Statistics (T303, P100):**
+
+- **Mean:** 50.939
+- **Median:** 50.966
+- **Std Dev ($\sigma$):** 0.453
+
+*Control limits calculated at 3-sigma.*
+:::
+
+::: {.column width="50%"}
+<iframe data-src="media/plots/control_chart.html" width="100%" height="500px" style="border:none;"></iframe>
+:::
+::::
